@@ -1,6 +1,3 @@
-print("Hello Shylaja")
-print("Learn quickly")
-
 print("Shylaja", "Welcome", 123, 3.6, "True", True, sep='-')
 print("Shylaja", "Welcome", 123, 3.6, "True", True, sep='@')
 print("Shylaja", "Welcome", 123, 3.6, "True", True, sep='-', end='\n')
