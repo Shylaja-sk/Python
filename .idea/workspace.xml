@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 10th">
-      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/lab010.py" afterDir="false" />
+    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 13th">
+      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Ex-Aug-13/Lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,10 @@
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
     "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
     "Python.lab010.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -116,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab010" />
         <item itemvalue="Python.Lab002" />
+        <item itemvalue="Python.lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -161,12 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723566468182</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All the files of August 13th">
+      <option name="closed" value="true" />
+      <created>1723631636517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723631636517</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="All the files of August 10th" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 10th" />
+    <MESSAGE value="All the files of August 13th" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 13th" />
   </component>
 </project>
