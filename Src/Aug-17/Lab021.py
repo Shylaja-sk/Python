@@ -4,14 +4,17 @@ age = 20
 print(age+1)
 print(20+2)
 
-# -- assignment operator (to store the value)
+# -- assignment operator (to store the right value to left ref)
+
+
+#--Uniary operator
+how_many_nanocar =-1
+print(how_many_nanocar)
 #divmod()
 # // give quotient
 # / normal division
 
 # ** power
-
-
 
 print(4//2)
 print(2 == 3)
@@ -29,9 +32,7 @@ print(a<b)
 
 
 
-# Or amd and gate
-a = True
-b = False
-print(a or b)
-print (a and b)
+
+
+
 

@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 13th">
-      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab021.py" afterDir="false" />
+    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 17th">
+      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +69,13 @@
     &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
     &quot;Python.lab010.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -187,13 +198,38 @@
       <option name="project" value="LOCAL" />
       <updated>1724087091224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All the files of August 17th">
+      <option name="closed" value="true" />
+      <created>1724165366057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724165366057</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="All the files of August 10th" />
     <MESSAGE value="All the files of August 13th" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 13th" />
+    <MESSAGE value="All the files of August 17th" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 17th" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Aug-17/Lab023.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Aug-17/Lab023.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
