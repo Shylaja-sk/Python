@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 17th">
-      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-17/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 20/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 20/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 20/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 20/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 20/Lab030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Aug-17/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-17/Lab021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +74,11 @@
     &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
     &quot;Python.lab010.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -206,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724165366057</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All the files of August 17th">
+      <option name="closed" value="true" />
+      <created>1724841977988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724841977988</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
