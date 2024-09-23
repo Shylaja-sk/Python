@@ -28,7 +28,13 @@ class person:
 
 a1 = person()
 a1.name = "Shylaja"
+a1.id = 123
 print(a1.name)
+
+a2 = person()
+a2.name = "Sam"
+print(a2.name)
+
 
 
 
