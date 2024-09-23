@@ -4,16 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 24">
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab059.py" afterDir="false" />
+    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 27">
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 29/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 31 - Oops/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 31 - Oops/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug - 31 - Oops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Aug-27/Lab063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Aug-27/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Aug-27/Lab059.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,71 +61,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.LAB008.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab023.executor": "Run",
-    "Python.Lab024.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026.executor": "Debug",
-    "Python.Lab027.executor": "Run",
-    "Python.Lab028.executor": "Run",
-    "Python.Lab029.executor": "Run",
-    "Python.Lab030.executor": "Run",
-    "Python.Lab031.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab033.executor": "Run",
-    "Python.Lab034.executor": "Run",
-    "Python.Lab035.executor": "Run",
-    "Python.Lab036.executor": "Run",
-    "Python.Lab037.executor": "Run",
-    "Python.Lab038.executor": "Run",
-    "Python.Lab039-Task.executor": "Run",
-    "Python.Lab040-Task.executor": "Run",
-    "Python.Lab041-Task.executor": "Run",
-    "Python.Lab042-Task.executor": "Run",
-    "Python.Lab043.executor": "Run",
-    "Python.Lab044.executor": "Run",
-    "Python.Lab045.executor": "Run",
-    "Python.Lab046.executor": "Run",
-    "Python.Lab047.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab049.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab052.executor": "Run",
-    "Python.Lab053.executor": "Run",
-    "Python.Lab054.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056.executor": "Run",
-    "Python.Lab057.executor": "Run",
-    "Python.Lab058.executor": "Run",
-    "Python.Lab059.executor": "Run",
-    "Python.lab010.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LAB008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039-Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040-Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041-Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042-Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab010.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lab002">
     <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -208,8 +227,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab054" />
         <item itemvalue="Python.Lab002" />
+        <item itemvalue="Python.Lab054" />
         <item itemvalue="Python.Lab026" />
         <item itemvalue="Python.lab010" />
       </list>
@@ -327,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726821637499</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="All the files of August 27">
+      <option name="closed" value="true" />
+      <created>1726844229808</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726844229808</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,7 +365,8 @@
     <MESSAGE value="All the files of August 20" />
     <MESSAGE value="All the files of August 22" />
     <MESSAGE value="All the files of August 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 24" />
+    <MESSAGE value="All the files of August 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

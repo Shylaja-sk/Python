@@ -16,9 +16,10 @@ def time_decorator(func):
 @time_decorator
 def test_Ui_1():
     print("Add a function, time taken by this function")
-    time.sleep(2)
+    time.sleep(2) # to wait.
 
+@time_decorator # reusing the code and to add extra functionality
 def test_Ui_2():
     print("Add a function, time taken by this function")
-    time.sleep(2)
+    time.sleep(4)
 
