@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of August 31">
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/__init__.py" afterDir="false" />
+    <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of Sept 5">
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab092.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Sept/Sep - 03/Lab087.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +136,9 @@
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
     "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
     "Python.lab010.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -392,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727091807060</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="All the files of Sept 5">
+      <option name="closed" value="true" />
+      <created>1727176915126</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727176915126</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -406,7 +406,8 @@
     <MESSAGE value="All the files of August 27" />
     <MESSAGE value="All the files of August 29" />
     <MESSAGE value="All the files of August 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files of August 31" />
+    <MESSAGE value="All the files of Sept 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files of Sept 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
