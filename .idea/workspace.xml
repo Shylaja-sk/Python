@@ -5,20 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a666a04-d09b-4f22-9c2d-ea3d8b7bf938" name="Changes" comment="All the files of Sept 10">
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab0106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab0108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Shylaja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Browser/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Browser/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Browser/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Browser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sep-12/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept - 28/Lab131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept - 28/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-14/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-14/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-14/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-14/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-17/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-17/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-19/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-19/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-21/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-21/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-21/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-26/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-26/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-26/Lab130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Sept/Sept-26/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab105.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Sept/Sep-10/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab114.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Sept/Sep-10/Lab114.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +77,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CloseBrowser.executor": "Run",
     "Python.LAB008.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -168,6 +186,11 @@
     "Python.Lab112.executor": "Run",
     "Python.Lab113.executor": "Run",
     "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab130.executor": "Run",
     "Python.lab010.executor": "Run",
     "Python.lab110.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -177,6 +200,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shylaja\PycharmProjects\Python\Src\Browser" />
       <recent name="C:\Users\Shylaja\PycharmProjects\Python\Src\Sept\Sept-7" />
       <recent name="C:\Users\Shylaja\PycharmProjects\Python\Src\Sept\Sept-5" />
       <recent name="C:\Users\Shylaja\PycharmProjects\Python\Src\Sept" />
@@ -471,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727271043812</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="All the files of Sept 10">
+      <option name="closed" value="true" />
+      <created>1727443650154</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727443650154</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
